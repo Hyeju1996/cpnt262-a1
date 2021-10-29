@@ -1,6 +1,6 @@
 # cpnt262-a1.
 
-## IOS app swichmode.
+## swichmode.
 
 ## explain
 
