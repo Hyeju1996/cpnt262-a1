@@ -1,6 +1,6 @@
 # cpnt262-a1.
 
-## swichmode.
+## toggle/swich button
 
 ## explain
 
